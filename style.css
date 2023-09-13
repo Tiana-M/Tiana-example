@@ -1,0 +1,67 @@
+
+.gradient-background {
+    background: linear-gradient(300deg, #9d00ff, #00bfff, #ff99ff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+.btn-dark:hover{
+    background-color:#cc66ff;    
+}
+
+.btn-outline-dark:hover{
+    background-color:  #80ccff;
+}
+
+.card-one{
+    color:black;
+}
+
+.card-two{
+    color:violet;
+}
+
+.card-three{
+    color:black;
+}
+
+.button-unique{
+    color:#cc66ff;
+}
+
+#pricing{
+    background-color: #F0F8FF;
+}
+
+.button-two{
+    background-color: #80ccff;
+}
+
+.third-card{
+    background-color: #80ccff;
+}
+
+footer{
+    background: linear-gradient(300deg, #9d00ff, #00bfff, #ff99ff);
+    
+}
+
+footer{
+    /* display: inline-block;
+     text-align: center;*/
+   
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    font-size: medium;
+   
+   }
+   
+   .fab{
+     margin-top: 30px;
+     color: black;
+   }
+   
+   .fab:hover{
+     color: #F3C3EF;
+   }
